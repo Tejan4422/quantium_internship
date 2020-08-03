@@ -8,7 +8,7 @@ This repository contains code and in depth analysis which I conducted in July 20
 
 * Packages Used : matplotltlib, seaborn, pandas, sklearn
 * Case Studies : 
-![alt text](https://github.com/Tejan4422/quantium_internship/blob/master/quantium_internship_certi.pdf " ")
+![alt text](https://github.com/Tejan4422/quantium_internship/blob/master/quantium_internship_certi.png " ")
 ![alt text](https://github.com/Tejan4422/quantium_internship/blob/master/bar_final_sales_77.png " ")
 ![alt text](https://github.com/Tejan4422/quantium_internship/blob/master/bar_final_sales_86.png " ")
 ![alt text](https://github.com/Tejan4422/quantium_internship/blob/master/bar_final_sales_88.png " ")
